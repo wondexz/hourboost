@@ -1,0 +1,25 @@
+{
+  "name": "wondexz-hourboost",
+  "version": "1.0.0",
+  "description": "wondexz hourboost system",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wondexz/hourboost"
+  },
+  "keywords": [
+    "steam",
+    "hourboost",
+    "cs2"
+  ],
+  "author": "wondexz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wondexz/hourboost/issues"
+  },
+  "homepage": "https://github.com/wondexz/hourboost#readme"
+}

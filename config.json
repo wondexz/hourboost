@@ -1,0 +1,24 @@
+{
+    "accounts": {
+        "1": {
+            "details": {
+                "username": "",
+                "password": ""
+            },
+            "settings": {
+                "title": [ "wondexz" ],
+                "games": [ 730, 227300 ]
+            }  
+        },
+        "2": {
+            "details": {
+                "username": "",
+                "password": ""
+            },
+            "settings": {
+                "title": [ "wondexz" ],
+                "games": [ 730 ]
+            }   
+        }
+    }
+}
